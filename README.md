@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhijithnitc
+- 👋 Hi, I’m Abhijith. Ignore my naive UserName
 - 👀 I’m interested in coding in general
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android Mobile Apps
